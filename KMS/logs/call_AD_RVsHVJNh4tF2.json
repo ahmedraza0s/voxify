@@ -1,0 +1,76 @@
+{
+  "call_id": "AD_RVsHVJNh4tF2",
+  "provider_call_id": null,
+  "conversation_id": "inbound-_+917709037498_rMCZ5oMHesBR",
+  "direction": "inbound",
+  "caller_number": null,
+  "receiver_number": null,
+  "from_number": null,
+  "to_number": "+918046733439",
+  "sip_number": null,
+  "sip_call_id": null,
+  "sip_provider": "vobiz",
+  "call_start_time": "2026-03-27T16:22:25.241394",
+  "call_answer_time": null,
+  "call_end_time": "2026-03-27T16:23:02.943679",
+  "call_duration": 37.702285,
+  "call_status": "completed",
+  "transcript": "User: Okay. Okay.\nAgent: Hello. I'm Inbound Assistant from Vobiz. It's nice to speak with you. How can I assist you today? Do you have\nAgent: Is there something specific\n",
+  "transcript_segments": [
+    {
+      "text": "Okay. Okay.",
+      "speaker": "user",
+      "timestamp": 1774608756.8264997
+    },
+    {
+      "text": "Hello. I'm Inbound Assistant from Vobiz. It's nice to speak with you. How can I assist you today? Do you have",
+      "speaker": "agent",
+      "timestamp": 1774608756.8354516
+    },
+    {
+      "text": "Is there something specific",
+      "speaker": "agent",
+      "timestamp": 1774608759.932559
+    }
+  ],
+  "intent_detected": null,
+  "sentiment": null,
+  "ai_model_used": null,
+  "ai_prompt": null,
+  "ai_response": null,
+  "stt_provider": "deepgram",
+  "tts_provider": "sarvam",
+  "llm_provider": "groq",
+  "stt_latency": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "llm_latency": [
+    1642.2954000299796,
+    846.6048999689519
+  ],
+  "tts_latency": [
+    1683.2640999928117
+  ],
+  "total_response_time": null,
+  "jitter": null,
+  "packet_loss": null,
+  "mos_score": null,
+  "call_outcome": null,
+  "tags": [],
+  "notes": null,
+  "customer_id": null,
+  "customer_name": null,
+  "agent_id": null,
+  "agent_name": "outbound-caller",
+  "sip_cost": 0.0,
+  "stt_cost": 0.0,
+  "tts_cost": 0.0,
+  "llm_cost": 0.0,
+  "total_call_cost": 0.0,
+  "ip_address": null,
+  "user_agent": null,
+  "created_at": "2026-03-27T16:22:25.242407",
+  "updated_at": "2026-03-27T16:23:02.954276"
+}

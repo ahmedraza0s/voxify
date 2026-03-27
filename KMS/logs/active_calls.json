@@ -1,107 +1,16 @@
 {
-  "AD_LX4brNpQdRL4": {
-    "call_id": "AD_LX4brNpQdRL4",
-    "phone": "+918046733439",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:16:54.498671",
-    "updated_at": "2026-03-20T20:18:05.151548"
-  },
-  "AD_5kF3upDy5AJH": {
-    "call_id": "AD_5kF3upDy5AJH",
+  "AD_RVsHVJNh4tF2": {
+    "call_id": "AD_RVsHVJNh4tF2",
     "phone": "unknown",
     "status": "completed",
-    "triggered_at": "2026-03-20T20:16:54.583867",
-    "updated_at": "2026-03-20T20:17:29.001208"
+    "triggered_at": "2026-03-27T16:22:25.242407",
+    "updated_at": "2026-03-27T16:23:02.943679"
   },
-  "AD_oo2ta5U2yWHE": {
-    "call_id": "AD_oo2ta5U2yWHE",
+  "AD_6Wfb3Zr9MXaF": {
+    "call_id": "AD_6Wfb3Zr9MXaF",
     "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:16:55.406413",
-    "updated_at": "2026-03-20T20:38:08.519584"
-  },
-  "AD_iAGYamfbYD2J": {
-    "call_id": "AD_iAGYamfbYD2J",
-    "phone": "+918046733439",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:16:58.613606",
-    "updated_at": "2026-03-20T20:17:05.937575"
-  },
-  "AD_2dDd3RJUQ7Ab": {
-    "call_id": "AD_2dDd3RJUQ7Ab",
-    "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:17:02.946687",
-    "updated_at": "2026-03-20T20:18:28.886496"
-  },
-  "AD_73vx8Wvy9gjH": {
-    "call_id": "AD_73vx8Wvy9gjH",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:23:48.598509",
-    "updated_at": "2026-03-20T20:24:40.219827"
-  },
-  "AD_CJmerR8EkJsL": {
-    "call_id": "AD_CJmerR8EkJsL",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:24:29.359566",
-    "updated_at": "2026-03-20T20:25:23.911431"
-  },
-  "AD_BAyFRNvKksJs": {
-    "call_id": "AD_BAyFRNvKksJs",
-    "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:26:49.123515",
-    "updated_at": "2026-03-20T20:27:30.276728"
-  },
-  "AD_YaPsnqYppbQE": {
-    "call_id": "AD_YaPsnqYppbQE",
-    "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:27:22.449990",
-    "updated_at": "2026-03-20T20:28:03.169596"
-  },
-  "AD_8qxFRajPZh2k": {
-    "call_id": "AD_8qxFRajPZh2k",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:28:00.009547",
-    "updated_at": "2026-03-20T20:28:48.182023"
-  },
-  "AD_S2pBF68pn3P3": {
-    "call_id": "AD_S2pBF68pn3P3",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:28:36.121390",
-    "updated_at": "2026-03-20T20:29:18.140924"
-  },
-  "AD_uAuKoyu6ebvt": {
-    "call_id": "AD_uAuKoyu6ebvt",
-    "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:36:26.550741",
-    "updated_at": "2026-03-20T20:37:10.246615"
-  },
-  "AD_pbDNbBVvHinz": {
-    "call_id": "AD_pbDNbBVvHinz",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:42:27.170631",
-    "updated_at": "2026-03-20T20:43:18.933937"
-  },
-  "AD_htP7i8Ned6GG": {
-    "call_id": "AD_htP7i8Ned6GG",
-    "phone": "unknown",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:46:26.658058",
-    "updated_at": "2026-03-20T20:47:05.169951"
-  },
-  "AD_u8oZf8FJDNre": {
-    "call_id": "AD_u8oZf8FJDNre",
-    "phone": "+917709037498",
-    "status": "completed",
-    "triggered_at": "2026-03-20T20:47:01.618326",
-    "updated_at": "2026-03-20T20:47:58.866226"
+    "status": "active",
+    "triggered_at": "2026-03-27T16:32:14.917206",
+    "updated_at": "2026-03-27T16:32:14.917206"
   }
 }
